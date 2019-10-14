@@ -1,0 +1,10 @@
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\bin\Debug\netcoreapp3.0\Recieve.exe
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\bin\Debug\netcoreapp3.0\Recieve.deps.json
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\bin\Debug\netcoreapp3.0\Recieve.runtimeconfig.json
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\bin\Debug\netcoreapp3.0\Recieve.runtimeconfig.dev.json
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\bin\Debug\netcoreapp3.0\Recieve.dll
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\bin\Debug\netcoreapp3.0\Recieve.pdb
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\obj\Debug\netcoreapp3.0\Recieve.AssemblyInfoInputs.cache
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\obj\Debug\netcoreapp3.0\Recieve.AssemblyInfo.cs
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\obj\Debug\netcoreapp3.0\Recieve.dll
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Recieve\obj\Debug\netcoreapp3.0\Recieve.pdb

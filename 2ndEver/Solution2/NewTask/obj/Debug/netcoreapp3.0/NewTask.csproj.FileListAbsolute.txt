@@ -1,0 +1,13 @@
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\NewTask.exe
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\NewTask.deps.json
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\NewTask.runtimeconfig.json
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\NewTask.runtimeconfig.dev.json
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\NewTask.dll
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\NewTask.pdb
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\obj\Debug\netcoreapp3.0\NewTask.csprojAssemblyReference.cache
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\obj\Debug\netcoreapp3.0\NewTask.AssemblyInfoInputs.cache
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\obj\Debug\netcoreapp3.0\NewTask.AssemblyInfo.cs
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\obj\Debug\netcoreapp3.0\NewTask.dll
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\obj\Debug\netcoreapp3.0\NewTask.pdb
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\NewTask\obj\Debug\netcoreapp3.0\NewTask.csproj.CopyComplete

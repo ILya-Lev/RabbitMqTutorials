@@ -1,0 +1,12 @@
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\Send.exe
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\Send.deps.json
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\Send.runtimeconfig.json
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\Send.runtimeconfig.dev.json
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\Send.dll
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\Send.pdb
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\obj\Debug\netcoreapp3.0\Send.AssemblyInfoInputs.cache
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\obj\Debug\netcoreapp3.0\Send.AssemblyInfo.cs
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\obj\Debug\netcoreapp3.0\Send.dll
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\obj\Debug\netcoreapp3.0\Send.pdb
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\lis\programming\projects\RabbitMqLab\1stEver\Solution\Send\obj\Debug\netcoreapp3.0\Send.csproj.CopyComplete

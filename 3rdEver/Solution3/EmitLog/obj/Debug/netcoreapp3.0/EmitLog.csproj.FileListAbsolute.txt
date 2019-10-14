@@ -1,0 +1,13 @@
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\EmitLog.exe
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\obj\Debug\netcoreapp3.0\EmitLog.csprojAssemblyReference.cache
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\obj\Debug\netcoreapp3.0\EmitLog.AssemblyInfoInputs.cache
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\obj\Debug\netcoreapp3.0\EmitLog.AssemblyInfo.cs
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\EmitLog.deps.json
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\EmitLog.runtimeconfig.json
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\EmitLog.runtimeconfig.dev.json
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\EmitLog.dll
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\EmitLog.pdb
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\obj\Debug\netcoreapp3.0\EmitLog.csproj.CopyComplete
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\obj\Debug\netcoreapp3.0\EmitLog.dll
+D:\lis\programming\projects\RabbitMqLab\3rdEver\Solution3\EmitLog\obj\Debug\netcoreapp3.0\EmitLog.pdb

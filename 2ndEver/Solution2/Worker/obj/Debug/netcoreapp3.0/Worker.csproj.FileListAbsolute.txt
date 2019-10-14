@@ -1,0 +1,13 @@
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\Worker.exe
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\Worker.deps.json
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\Worker.runtimeconfig.json
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\Worker.runtimeconfig.dev.json
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\Worker.dll
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\Worker.pdb
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\obj\Debug\netcoreapp3.0\Worker.AssemblyInfoInputs.cache
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\obj\Debug\netcoreapp3.0\Worker.AssemblyInfo.cs
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\obj\Debug\netcoreapp3.0\Worker.dll
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\obj\Debug\netcoreapp3.0\Worker.pdb
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\obj\Debug\netcoreapp3.0\Worker.csprojAssemblyReference.cache
+d:\lis\programming\projects\RabbitMqLab\2ndEver\Solution2\Worker\obj\Debug\netcoreapp3.0\Worker.csproj.CopyComplete
